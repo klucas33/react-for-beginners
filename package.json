@@ -1,6 +1,7 @@
 {
   "name": "movies",
   "version": "0.1.0",
+  "homepage": "https://klucas33.github.io/react-for-beginners",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
@@ -38,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://klucas33.github.io/react-for-beginners"
+  }
 }
